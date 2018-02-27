@@ -2,6 +2,11 @@
 
 
 
+
+
+
+
+
 void main()
 {
 	printf("Helloworld!\n");
@@ -10,6 +15,18 @@ void main()
 
 
 }
+
+
+
+
+
+
+void microkernel_getmsg(char*b)
+{
+	//TODO: getmsg feature
+}
+
+
 
 
 
